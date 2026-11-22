@@ -1,0 +1,3 @@
+/* Entrada opcional del compilador autónomo. El navegador carga assets/site.css. */
+@import "tailwindcss" source(none);
+@source "../index.html";
